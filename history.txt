@@ -1,0 +1,663 @@
+gholu@COLLOSUS_001 MINGW64 ~
+$ pwd
+/c/Users/gholu
+
+gholu@COLLOSUS_001 MINGW64 ~
+$ cd /d
+
+gholu@COLLOSUS_001 MINGW64 /d
+$ ls
+'$RECYCLE.BIN'/
+ 4nec2/
+ 4NEC2.d/
+ AeroDynamics.d/
+ AmateurLogs.d/
+ Amplifiers.d/
+ AmplitudeModulation.d/
+ AntennaDesign.d/
+ ArrowAntenna.d/
+ Articles.d/
+ ATT.d/
+ BachChorales.d/
+ bin/
+ Blitzortung.d/
+ ButterflyCapacitor.d/
+ Calculus_and_LinearAlgebra_Book/
+ CEM.d/
+ Circuit_Analysis.d/
+ CITI_.d/
+ ClassicalGas.d/
+ Config.Msi/
+'Connection to 192.168.1.3-12152018-15.35'/
+ ConstrainedLeastSquares.d/
+ Cosmolgy.d/
+ CoupledResonators.d/
+ Coursera.d/
+ CUDA.d/
+ cygwin64/
+ cygwin64Lost/
+ DiffEq_MIT.d/
+ Directional_Couplers.d/
+ doc/
+ DOCKER.d/
+ Documentation_XPS_8930.d/
+ Dongle.d/
+ Downloads/
+ Drexel.d/
+ DRM.d/
+ Dropbox/
+ DSP.d/
+ E_and_M.d/
+ edX_Ccourse.d/
+ ELAD__FDMdUO.d/
+ EME_Station.d/
+ Evidence.d/
+ FDTD.d/
+ Femto-Photography.d/
+ FileHistory/
+ Financials.d/
+ Fitness.d/
+ FlexSDR1000.d/
+ FT-736r/
+ GIT_Test.d/
+ GNUplot.d/
+ GrafanaLabs/
+ home/
+ Honda/
+ Honda_CRV.d/
+ Icom_7300.d/
+ IntermittentFasting.d/
+ Invoices.d/
+ Java/
+ Java.d/
+ JavaProjectsNew.d/
+ JetBrains/
+ Julia.d/
+ KindleApp.d/
+ Lexar.d/
+ LNAs.d/
+ LogPeriodic.d/
+ LT_Spice.d/
+ MachineLearning.d/
+ MATLAB.d/
+ MikTex_Download_Files/
+ MIT_OCW.d/
+ Mixers.d/
+ MotorController.d/
+ MRF-150.d/
+ MultibandVHF_UHF_Antenna.d/
+ Music.d/
+ NEC2/
+'New folder'/
+ Octave.d/
+ OddsAndEnds.d/
+ ODE_Trinity_U.d/
+ OmniRig.d/
+ OnlineCourses.d/
+ Operationalization.d/
+ Orders.d/
+ PacketCaptures/
+ Pandas.d/
+ Phd_Programs.d/
+ Philisophical.d/
+ Physics.d/
+ Pi_SDR.d/
+ Pics.d/
+ PID_Controllers.d/
+ Planning.d/
+ PowerAmplifiers.d/
+ PowerMeters.d/
+ PPTK.d/
+ Programs/
+ Projects.d/
+ Propagation.d/
+ PropagationData.d/
+ PSK_Reporter_Logs.d/
+ pubs/
+ Python/
+ Python.d/
+ QSLs.d/
+ QuantumComputing.d/
+ R/
+ Ranging.d/
+ Realistic_2001.d/
+ Receipts/
+ Recovery/
+ RF_Power_Measurements.d/
+ RF_PowerAmplifierMicrowaveDesign.d/
+ Rommel.docx
+ Rowing.d/
+ Satellites.d/
+ SDN.d/
+ SDR.d/
+ ServiceManuals.d/
+ Share.d/
+ Shiny/
+ src/
+ StrengthTraining.d/
+ SwanXcvr.d/
+'System Volume Information'/
+ TCNJ.d/
+ Temp/
+ Topics.d/
+ Transverter.d/
+ TrapDipoleAntenna.d/
+ TrigonometryCheatSheets.d/
+ Ukraine/
+ US_UkraineFoundation.d/
+ UWB.d/
+ Videos.d/
+'VirtualBox VMs'/
+ VirtualBox_Images.d/
+ VNA.d/
+ vProbe.d/
+ WaveEquation.d/
+ WingTutorial.d/
+ WireShark.d/
+ WSJT_X.d/
+ X-Band/
+ XRF-286.d/
+ YagiDesign.d/
+
+gholu@COLLOSUS_001 MINGW64 /d
+$ cd GIT_Test.d
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d
+$ git init
+Initialized empty Git repository in D:/GIT_Test.d/.git/
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ ls
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ cd .git
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d/.git (GIT_DIR!)
+$ ls
+config  description  HEAD  hooks/  info/  objects/  refs/
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d/.git (GIT_DIR!)
+$ ls -al
+total 11
+drwxr-xr-x 1 gholu 197121   0 Jan 29 15:33 ./
+drwxr-xr-x 1 gholu 197121   0 Jan 29 15:33 ../
+-rw-r--r-- 1 gholu 197121 130 Jan 29 15:33 config
+-rw-r--r-- 1 gholu 197121  73 Jan 29 15:33 description
+-rw-r--r-- 1 gholu 197121  23 Jan 29 15:33 HEAD
+drwxr-xr-x 1 gholu 197121   0 Jan 29 15:33 hooks/
+drwxr-xr-x 1 gholu 197121   0 Jan 29 15:33 info/
+drwxr-xr-x 1 gholu 197121   0 Jan 29 15:33 objects/
+drwxr-xr-x 1 gholu 197121   0 Jan 29 15:33 refs/
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d/.git (GIT_DIR!)
+$ cd ..
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ touch tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ touch readme.txt
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git add .
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   readme.txt
+        new file:   tim.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ touch oneMore.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   readme.txt
+        new file:   tim.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        oneMore.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git commit -m "first change"
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'gholu@COLLOSUS_001.(none)')
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   readme.txt
+        new file:   tim.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        oneMore.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$  git config --global user.email "gholubec@gmail.com"
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$  git config --global user.name "gholubec"
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git commit -m "first change"
+[master (root-commit) f3b11c8] first change
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 readme.txt
+ create mode 100644 tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        oneMore.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        oneMore.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git add readme.txt
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        oneMore.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git commit -m readme.txt
+[master fc317c7] readme.txt
+ 1 file changed, 1 insertion(+)
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        oneMore.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git add oneMore.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   oneMore.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   oneMore.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git commit -m oneMore.py
+[master d3523bf] oneMore.py
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 oneMore.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git rm --cached tim.py
+rm 'tim.py'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        deleted:    tim.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        tim.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git commit -m "deleted tim.py"
+[master 4163779] deleted tim.py
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ ls
+oneMore.py  readme.txt  tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        tim.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git branch login
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ ls
+oneMore.py  readme.txt  tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        tim.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git checkout login
+Switched to branch 'login'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git status
+On branch login
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        tim.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ ls
+oneMore.py  readme.txt  tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ vi readme.text
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ rm readme.text
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ vi readme.txt
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ vi tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git status
+On branch login
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   readme.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        tim.py
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git add tim.py
+warning: LF will be replaced by CRLF in tim.py.
+The file will have its original line endings in your working directory
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git add readme.txt
+warning: LF will be replaced by CRLF in readme.txt.
+The file will have its original line endings in your working directory
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git status
+On branch login
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   readme.txt
+        new file:   tim.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git add .
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git status
+On branch login
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   readme.txt
+        new file:   tim.py
+
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git commit -m "update"
+[login b3e0529] update
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+ create mode 100644 tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ ls
+oneMore.py  readme.txt  tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ cat readme.txt
+hi there!
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ cat tim.py
+import os
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git checkout master
+Switched to branch 'master'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ cat tim.py
+cat: tim.py: No such file or directory
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ cat readme.txt
+hello there
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ ls
+oneMore.py  readme.txt
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git checkout login
+Switched to branch 'login'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git checkout master
+Switched to branch 'master'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ touch tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        tim.py
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git add tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git commit -m "adding back empty tim.py"
+[master 6e53df1] adding back empty tim.py
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ ls
+oneMore.py  readme.txt  tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ whereis python
+bash: whereis: command not found
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ python
+
+quit()
+  File "<stdin>", line 2
+    quit()
+    ^
+SyntaxError:
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git checkout login
+Switched to branch 'login'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git checkout master
+Switched to branch 'master'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git rm tim.py
+rm 'tim.py'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git commit -m "rm tim.py"
+[master 48e2ba6] rm tim.py
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 tim.py
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ ls
+oneMore.py  readme.txt
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git checkout login
+Switched to branch 'login'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git diff
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git status
+On branch login
+nothing to commit, working tree clean
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git diff --cached
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git log
+commit b3e05297e412e9540c7cbd55d5b9f1918f19122e (HEAD -> login)
+Author: gholubec <gholubec@gmail.com>
+Date:   Wed Jan 29 16:20:09 2020 -0500
+
+    update
+
+commit 41637790da5e072a8ce2afb10e1358531d9a0c4b
+Author: gholubec <gholubec@gmail.com>
+Date:   Wed Jan 29 16:10:15 2020 -0500
+
+    deleted tim.py
+
+commit d3523bf109f4472bfd36b0aa11d03683da64251f
+Author: gholubec <gholubec@gmail.com>
+Date:   Wed Jan 29 15:49:50 2020 -0500
+
+    oneMore.py
+
+commit fc317c7199e357ade91375ccb389afc9c248817c
+Author: gholubec <gholubec@gmail.com>
+Date:   Wed Jan 29 15:49:08 2020 -0500
+
+    readme.txt
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (login)
+$ git checkout master
+Switched to branch 'master'
+
+gholu@COLLOSUS_001 MINGW64 /d/GIT_Test.d (master)
+$ git log -p .
+commit 48e2ba64cb3f4498fb9f18d090835c15dc2979fd (HEAD -> master)
+Author: gholubec <gholubec@gmail.com>
+Date:   Wed Jan 29 16:29:24 2020 -0500
+
+    rm tim.py
+
+diff --git a/tim.py b/tim.py
+deleted file mode 100644
+index e69de29..0000000
+
+commit 6e53df188ff0ed4b0568974eb6b13b84e8ed4496
+Author: gholubec <gholubec@gmail.com>
+Date:   Wed Jan 29 16:25:02 2020 -0500
+
+    adding back empty tim.py
+
+diff --git a/tim.py b/tim.py
+new file mode 100644
+index 0000000..e69de29
+
+commit 41637790da5e072a8ce2afb10e1358531d9a0c4b
+Author: gholubec <gholubec@gmail.com>
+Date:   Wed Jan 29 16:10:15 2020 -0500
+:
